@@ -13,8 +13,8 @@ public int Area_of_Rectangle(int l,int b) {
 	int rec=l*b;
 	return rec;
 }
-public int Area_of_square(int l) {
-	int squ= l*l;
+public int Area_of_square(int b) {
+	int squ= b*b;
 	return squ;
 }
 
