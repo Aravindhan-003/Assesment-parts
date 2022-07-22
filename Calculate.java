@@ -1,8 +1,8 @@
 package sample;
 
 public class Calculate {
-public int add(int a, int b) {
-	int d=a+b;
+public int add(int c, int b) {
+	int d=c+b;
 	return d;
 }
 public int Area_of_circle(int r) {
